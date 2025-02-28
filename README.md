@@ -1,5 +1,4 @@
-# Portfolio
-Sales Performance Report
+# Sales Performance Report
 
 Опис проєкту
 
